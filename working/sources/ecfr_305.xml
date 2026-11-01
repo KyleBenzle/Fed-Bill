@@ -1,0 +1,841 @@
+<?xml version="1.0"?>
+<DIV5 N="305" TYPE="PART" VOLUME="3" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-45/part-305&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;45 CFR Part 305&amp;quot;}">
+<HEAD>PART 305&#x2014;PROGRAM PERFORMANCE MEASURES, STANDARDS, FINANCIAL INCENTIVES, AND PENALTIES
+</HEAD>
+<AUTH>
+<HED>Authority:</HED><PSPACE>42 U.S.C. 609(a)(8), 652(a)(4) and (g), 658a, and 1302.
+</PSPACE></AUTH>
+<SOURCE>
+<HED>Source:</HED><PSPACE>65 FR 82208, Dec. 27, 2000, unless otherwise noted.
+</PSPACE></SOURCE>
+<DIV8 N="305.0" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.0&quot;,&quot;citation&quot;:&quot;45 CFR 305.0&quot;}">
+<HEAD>&#xA7; 305.0 Scope.</HEAD>
+<XREF ID="20261029" REFID="45" AMDINSN="29">Link to an amendment published at 91 FR 68055, Oct. 29, 2026.</XREF>
+<P>This part implements the incentive system requirements as described in section 458A (to be redesignated as section 458 effective October 1, 2001) of the Act and the penalty provisions as required in sections 409(a)(8) and 452(g) of the Act. This part also implements Federal audit requirements under sections 409(a)(8) and 452(a)(4) of the Act. Sections 305.0 through 305.2 contain general provisions applicable to this part. Sections 305.31 through 305.36 of this part describe the incentive system. Sections 305.40, 305.42 and &#xA7;&#xA7; 305.60 through 305.66 describe the penalty and audit processes.</P>
+<CITA TYPE="N">[65 FR 82208, Dec. 27, 2000, as amended at 85 FR 72911, Nov. 16, 2020]
+</CITA>
+</DIV8>
+
+<DIV8 N="305.1" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.1&quot;,&quot;citation&quot;:&quot;45 CFR 305.1&quot;}">
+<HEAD>&#xA7; 305.1 Definitions.</HEAD>
+<P>The definitions found in &#xA7; 301.1 of this chapter are also applicable to this part. In addition, for purposes of this part:</P>
+<P>(a) The term <I>IV-D case</I> means a parent (mother, father, or putative father) who is now or eventually may be obligated under law for the support of a child or children receiving services under the title IV-D program. A parent is a separate IV-D case for each family with a dependent child or children that the parent may be obligated to support. If both parents are absent and liable or potentially liable for support of a child or children receiving services under the IV-D program, each parent is considered a separate IV-D case. In counting cases for the purposes of this part, States may exclude cases closed under &#xA7; 303.11 and cases over which the State has no jurisdiction. Lack of jurisdiction cases are those in which a non-custodial parent resides in the civil jurisdictional boundaries of another country or federally recognized Indian Tribe and no income or assets of this individual are located or derived from outside that jurisdiction and the State has no other means through which to enforce the order.</P>
+<P>(b) The term <I>Current Assistance collections</I> means collections received and distributed on behalf of individuals whose rights to support are required to be assigned to the State under title IV-A of the Act, under title IV-E of the Act, or under title XIX of the Act. In addition, a referral to the State's IV-D agency must have been made.</P>
+<P>(c) The term <I>Former Assistance collections</I> means collections received and distributed on behalf of individuals whose rights to support were formerly required to be assigned to the State under title IV-A (TANF or Aid to Families with Dependent Children, AFDC), title IV-E (Foster Care), or title XIX (Medicaid) of the Act.</P>
+<P>(d) The term <I>Never Assistance/Other collections</I> means all other collections received and distributed on behalf of individuals who are receiving child support enforcement services under title IV-D of the Act.</P>
+<P>(e) The term <I>total IV-D dollars expended</I> means total IV-D administrative expenditures claimed by a State in a specified fiscal year adjusted in accordance with &#xA7; 305.32 of this part.</P>
+<P>(f) The term <I>Consumer Price Index or CPI</I> means the last Consumer Price Index for all-urban consumers published by the Department of Labor. The CPI for a fiscal year is the average of the Consumer Price Index for the 12-month period ending on September 30 of the fiscal year.</P>
+<P>(g) The term <I>State incentive payment share for a fiscal year</I> means the incentive base amount for the State for the fiscal year divided by the sum of the incentive base amounts for all of the States for the fiscal year.</P>
+<P>(h) The term <I>incentive base amount for a fiscal year</I> means the sum of the State's performance level percentages (determined in accordance with &#xA7; 305.33) multiplied by the State's corresponding maximum incentive base on each of the following measures:</P>
+<P>(1) The paternity establishment performance level;</P>
+<P>(2) The support order performance level;</P>
+<P>(3) The current collections performance level;</P>
+<P>(4) The arrears collections performance level; and</P>
+<P>(5) the cost-effectiveness performance level.</P>
+<P>(i) The term <I>reliable data,</I> means the most recent data available which are found by the Secretary to be reliable and is a state that exists when data are sufficiently complete and error free to be convincing for their purpose and context. State data must meet a 95 percent standard of reliability effective beginning in fiscal year 2001. This is with the recognition that data may contain errors as long as they are not of a magnitude that would cause a reasonable person, aware of the errors, to doubt a finding or conclusion based on the data.</P>
+<P>(j) The term <I>complete data</I> means all reporting elements from OCSE reporting forms, necessary to compute a State's performance levels, incentive base amount, and maximum incentive base amount, have been provided within timeframes established in instructions to these forms and &#xA7; 305.32(f) of this part.</P>
+</DIV8>
+
+<DIV8 N="305.2" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.2&quot;,&quot;citation&quot;:&quot;45 CFR 305.2&quot;}">
+<HEAD>&#xA7; 305.2 Performance measures.</HEAD>
+<P>(a) The child support incentive system measures State performance levels in five program areas:</P>
+<P>Paternity establishment; support order establishment; current collections; arrearage collections; and cost-effectiveness. The penalty system measures State performance in three of these areas: Paternity establishment; establishment of support orders; and current collections.</P>
+<P>(1) <I>Paternity Establishment Performance Level.</I> States have the choice of being evaluated on one of the following two measures for their paternity establishment percentage (commonly known as the PEP). The count of children shall not include any child who is a dependent by reason of the death of a parent (unless paternity is established for that child). It shall also not include any child whose parent is found to have good cause for refusing to cooperate with the State agency in establishing paternity, or for whom the State agency determines it is against the best interest of the child to pursue paternity issues.</P>
+<P>(i) <I>IV-D Paternity Establishment Percentage</I> means the ratio that the total number of children in the IV-D caseload in the fiscal year (or, at the option of the State, as of the end of the fiscal year) who have been born out-of-wedlock and for whom paternity has been established or acknowledged, bears to the total number of children in the IV-D caseload as of the end of the preceding fiscal year who were born out-of-wedlock. The equation to compute the measure is as follows (expressed as a percent):</P>
+<MATH BORDER="NODRAW" DEEP="71" HTYPE="CENTER" POSITION="NOFLOAT" ROTATION="P" SPAN="2" STRIP="YES">
+<img src="/graphics/er27de00.045.gif"/></MATH>
+<P>(ii) <I>Statewide Paternity Establishment Percentage</I> means the ratio that the total number of minor children who have been born out-of-wedlock and for whom paternity has been established or acknowledged during the fiscal year, bears to the total number of children born out-of-wedlock during the preceding fiscal year. The equation to compute the measure is as follows (expressed as a percent):</P>
+<MATH BORDER="NODRAW" DEEP="41" HTYPE="CENTER" POSITION="NOFLOAT" ROTATION="P" SPAN="2" STRIP="YES">
+<img src="/graphics/er27de00.046.gif"/></MATH>
+<P>(2) <I>Support Order Establishment Performance Level.</I> This measure requires a determination of whether or not there is a support order for each case. These support orders include all types of legally enforceable orders, such as court, default, and administrative. Since the measure is a case count at a point-in-time, modifications to an order do not affect the count. The equation to compute the measure is as follows (expressed as a percent):</P>
+<MATH BORDER="NODRAW" DEEP="26" HTYPE="CENTER" POSITION="NOFLOAT" ROTATION="P" SPAN="2" STRIP="YES">
+<img src="/graphics/er27de00.047.gif"/></MATH>
+<P>(3) <I>Current Collections Performance Level.</I> Current support is money applied to current support obligations and does not include payment plans for payment towards arrears. If included, voluntary collections must be included in both the numerator and the denominator. This measure is computed monthly and the total of all months is reported at the end of the year. The equation to compute the measure is as follows (expressed as a percent):</P>
+<MATH BORDER="NODRAW" DEEP="26" HTYPE="CENTER" POSITION="NOFLOAT" ROTATION="P" SPAN="2" STRIP="YES">
+<img src="/graphics/er27de00.048.gif"/></MATH>
+<P>(4) <I>Arrearage Collection Performance Level.</I> This measure includes those cases where all of the past-due support was disbursed to the family, or retained by the State because all the support was assigned to the State. If some of the past-due support was assigned to the State and some was to be disbursed to the family, only those cases where some of the support actually went to the family can be included. The equation to compute the measure is as follows (expressed as a percent):</P>
+<MATH BORDER="NODRAW" DEEP="24" HTYPE="CENTER" POSITION="NOFLOAT" ROTATION="P" SPAN="2" STRIP="YES">
+<img src="/graphics/er27de00.049.gif"/></MATH>
+<P>(5) <I>Cost-Effectiveness Performance Level.</I> Interstate incoming and outgoing distributed collections will be included for both the initiating and the responding State in this measure. The equation to compute this measure is as follows (expressed as a ratio):</P>
+<MATH BORDER="NODRAW" DEEP="26" HTYPE="CENTER" POSITION="NOFLOAT" ROTATION="P" SPAN="2" STRIP="YES">
+<img src="/graphics/er27de00.050.gif"/></MATH>
+<P>(b) For incentive purposes, the measures will be weighted in the following manner. Each State will earn five scores based on performance on each of the five measures. Each of the first three measures (paternity establishment, order establishment, and current collections) earn 100 percent of the collections base as defined in &#xA7; 305.31(e) of this part. The last two measures (collections on arrears and cost-effectiveness) earn a maximum of 75 percent of the collections base as defined in &#xA7; 305.31(e) of this part.</P>
+</DIV8>
+
+<DIV8 N="305.31" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.31&quot;,&quot;citation&quot;:&quot;45 CFR 305.31&quot;}">
+<HEAD>&#xA7; 305.31 Amount of incentive payment.</HEAD>
+<P>(a) The incentive payment for a State for a fiscal year is equal to the incentive payment pool for the fiscal year, multiplied by the State incentive payment share for the fiscal year.</P>
+<P>(b) The incentive payment pool is:</P>
+<P>(1) $422,000,000 for fiscal year 2000;</P>
+<P>(2) $429,000,000 for fiscal year 2001;</P>
+<P>(3) $450,000,000 for fiscal year 2002;</P>
+<P>(4) $461,000,000 for fiscal year 2003;</P>
+<P>(5) $454,000,000 for fiscal year 2004;</P>
+<P>(6) $446,000,000 for fiscal year 2005;</P>
+<P>(7) $458,000,000 for fiscal year 2006;</P>
+<P>(8) $471,000,000 for fiscal year 2007;</P>
+<P>(9) $483,000,000 for fiscal year 2008; and</P>
+<P>(10) For any succeeding fiscal year, the amount of the incentive payment pool for the fiscal year that precedes such succeeding fiscal year multiplied by the percentage (if any) by which the CPI for such preceding fiscal year exceeds the CPI for the second preceding fiscal year. In other words, for each fiscal year following fiscal year 2008, the incentive payment pool will be multiplied by the percentage increase in the CPI between the two preceding years. For example, if the CPI increases by 1 percent between fiscal years 2007 and 2008, then the incentive pool for fiscal year 2009 would be a 1 percent increase over the $483,000,000 incentive payment pool for fiscal year 2008, or $487,830,000.</P>
+<P>(c) The State incentive payment share for a fiscal year is the incentive base amount for the State for the fiscal year divided by the sum of the incentive base amounts for all of the States for the fiscal year.</P>
+<P>(d) A State's maximum incentive base amount for a fiscal year is the State's collections base for the fiscal year for the paternity establishment, support order, and current collections performance measures and 75 percent of the State's collections base for the fiscal year for the arrearage collections and cost-effectiveness performance measures.</P>
+<P>(e) A State's maximum incentive base amount for a State for a fiscal year is zero, unless a Federal audit performed under &#xA7; 305.60 of this part determines that the data submitted by the State for the fiscal year and used to determine the performance level involved are complete and reliable.</P>
+<P>(f) A State's collections base for a fiscal year is equal to: two times the sum of the total amount of support collected for Current Assistance cases plus two times the total amount of support collected in Former Assistance cases, plus the total amount of support collected in Never Assistance/other cases during the fiscal year, that is: 2(Current Assistance collections + Former Assistance collections) + all other collections.</P>
+</DIV8>
+
+<DIV8 N="305.32" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.32&quot;,&quot;citation&quot;:&quot;45 CFR 305.32&quot;}">
+<HEAD>&#xA7; 305.32 Requirements applicable to calculations.</HEAD>
+<P>In calculating the amount of incentive payments or penalties, the following conditions apply:</P>
+<P>(a) Each measure is based on data submitted for the Federal fiscal year. The Federal fiscal year runs from October 1st of one year through September 30th of the following year.</P>
+<P>(b) Only those Current Assistance, Former Assistance and Never Assistance/other collections disbursed and those expenditures claimed by the State in the fiscal year will be used to determine the incentive payment payable for that fiscal year;</P>
+<P>(c) Support collected by one State at the request of another State will be treated as having been collected in full by each State;</P>
+<P>(d) Amounts expended by the State in carrying out a special project under section 455(e) of the Act will be excluded from the State's total IV-D dollars expended in computing incentive payments;</P>
+<P>(e) Fees paid by individuals, recovered costs, and program income such as interest earned on collections will be deducted from total IV-D dollars expended; and</P>
+<P>(f) States must submit data used to determine incentives and penalties following instructions and formats as required by HHS on Office of Management and Budget (OMB) approved reporting instruments. Data necessary to calculate performance for incentives and penalties for a fiscal year must be submitted to the Office of Child Support Enforcement by December 31st, the end of the first quarter after the end of the fiscal year. Only data submitted as of December 31st will be used to determine the State's performance for the prior fiscal year and the amount of incentive payments due the States.</P>
+</DIV8>
+
+<DIV8 N="305.33" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.33&quot;,&quot;citation&quot;:&quot;45 CFR 305.33&quot;}">
+<HEAD>&#xA7; 305.33 Determination of applicable percentages based on performance levels.</HEAD>
+<P>(a) A State's paternity establishment performance level for a fiscal year is, at the option of the State, the IV-D paternity establishment percentage or the Statewide paternity establishment percentage determined under &#xA7; 305.2 of this part. The applicable percentage for each level of a State's paternity establishment performance can be found in table 1 of this part, except as provided in paragraph (b) of this section.</P>
+<P>(b) If the State's paternity establishment performance level for a fiscal year is less than 50 percent, but exceeds its paternity establishment performance level for the immediately preceding fiscal year by at least 10 percentage points, then the State's applicable percentage for the paternity establishment performance level is 50 percent.</P>
+<P>(c) A State's support order establishment performance level for a fiscal year is the percentage of the total number of cases where there is a support order determined under &#xA7;&#xA7; 305.2 and 305.32 of this part. The applicable percentage for each level of a State's support order establishment performance can be found on table 1 of this part, except as provided in paragraph (d) of this section.</P>
+<P>(d) If the State's support order establishment performance level for a fiscal year is less than 50 percent, but exceeds the State's support order establishment performance level for the immediately preceding fiscal year by at least 5 percentage points, then the State's applicable percentage is 50 percent.</P>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%" data-point-width="120">
+<CAPTION><P class="title">Table 1&#x2014;If the Paternity Establishment or Support Order Establishment Performance Level Is:</P><P class="headnote">(Use this table to determine the applicable percentage levels for the paternity establishment and support order establishment performance measures.)</P></CAPTION>
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">At least:<br/>(percent)</TH>
+<TH class="center border-top-single border-bottom-single border-right-single">But less than:<br/>(percent)</TH>
+<TH class="center border-top-single border-bottom-single">The applicable percentage is:</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="right border-right-single">80</TD>
+<TD class="right border-right-single"/>
+<TD class="right">100</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">79</TD>
+<TD class="right border-right-single">80</TD>
+<TD class="right">98</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">78</TD>
+<TD class="right border-right-single">79</TD>
+<TD class="right">96</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">77</TD>
+<TD class="right border-right-single">78</TD>
+<TD class="right">94</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">76</TD>
+<TD class="right border-right-single">77</TD>
+<TD class="right">92</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">75</TD>
+<TD class="right border-right-single">76</TD>
+<TD class="right">90</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">74</TD>
+<TD class="right border-right-single">75</TD>
+<TD class="right">88</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">73</TD>
+<TD class="right border-right-single">74</TD>
+<TD class="right">86</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">72</TD>
+<TD class="right border-right-single">73</TD>
+<TD class="right">84</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">71</TD>
+<TD class="right border-right-single">72</TD>
+<TD class="right">82</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">70</TD>
+<TD class="right border-right-single">71</TD>
+<TD class="right">80</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">69</TD>
+<TD class="right border-right-single">70</TD>
+<TD class="right">79</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">68</TD>
+<TD class="right border-right-single">69</TD>
+<TD class="right">78</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">67</TD>
+<TD class="right border-right-single">68</TD>
+<TD class="right">77</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">66</TD>
+<TD class="right border-right-single">67</TD>
+<TD class="right">76</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">65</TD>
+<TD class="right border-right-single">66</TD>
+<TD class="right">75</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">64</TD>
+<TD class="right border-right-single">65</TD>
+<TD class="right">74</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">63</TD>
+<TD class="right border-right-single">64</TD>
+<TD class="right">73</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">62</TD>
+<TD class="right border-right-single">63</TD>
+<TD class="right">72</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">61</TD>
+<TD class="right border-right-single">62</TD>
+<TD class="right">71</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">60</TD>
+<TD class="right border-right-single">61</TD>
+<TD class="right">70</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">59</TD>
+<TD class="right border-right-single">60</TD>
+<TD class="right">69</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">58</TD>
+<TD class="right border-right-single">59</TD>
+<TD class="right">68</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">57</TD>
+<TD class="right border-right-single">58</TD>
+<TD class="right">67</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">56</TD>
+<TD class="right border-right-single">57</TD>
+<TD class="right">66</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">55</TD>
+<TD class="right border-right-single">56</TD>
+<TD class="right">65</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">54</TD>
+<TD class="right border-right-single">55</TD>
+<TD class="right">64</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">53</TD>
+<TD class="right border-right-single">54</TD>
+<TD class="right">63</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">52</TD>
+<TD class="right border-right-single">53</TD>
+<TD class="right">62</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">51</TD>
+<TD class="right border-right-single">52</TD>
+<TD class="right">61</TD>
+</TR>
+<TR>
+<TD class="right border-right-single">50</TD>
+<TD class="right border-right-single">51</TD>
+<TD class="right">60</TD>
+</TR>
+<TR>
+<TD class="right border-bottom-single border-right-single">0</TD>
+<TD class="right border-bottom-single border-right-single">50</TD>
+<TD class="right border-bottom-single">0</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<P>(e) A State's current collections performance level for a fiscal year is equal to the total amount of current support collected during the fiscal year divided by the total amount of current support owed during the fiscal year in all IV-D cases, determined under &#xA7;&#xA7; 305.2 and 305.32 of this part. The applicable percentage with respect to a State's current collections performance level can be found on table 2, except as provided in paragraph (f) of this section.</P>
+<P>(f) If the State's current collections performance level for a fiscal year is less than 40 percent but exceeds the current collections performance level of the State for the immediately preceding fiscal year by at least 5 percentage points, then the State's applicable percentage is 50 percent.</P>
+<P>(g) A State's arrearage collections performance level for a fiscal year is equal to the total number of IV-D cases in which payments of past-due child support were received and distributed during the fiscal year, divided by the total number of IV-D cases in which there was past-due child support owed, as determined under &#xA7;&#xA7; 305.2 and 305.32 of this part. The applicable percentage with respect to a State's arrearage collections performance level can be found on table 2 except as provided in paragraph (h) of this section.</P>
+<P>(h) If the State's arrearage collections performance level for a fiscal year is less than 40 percent but exceeds the arrearage collections performance level for the immediately preceding fiscal year by at least 5 percentage points, then the State's applicable percentage is 50 percent.</P>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%" data-point-width="105">
+<CAPTION><P class="title">Table 2&#x2014;If the Current Collections or Arrearage Collections Performance Level Is:</P><P class="headnote">(Use this table to determine the percentage levels for the current collections and arrearage collections performance measures.)</P></CAPTION>
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">At least<br/>(percent</TH>
+<TH class="center border-top-single border-bottom-single border-right-single">But less than:<br/>(percent)</TH>
+<TH class="center border-top-single border-bottom-single">The applicable percentage is:<br/>(percent)</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">80</TD>
+<TD class="right border-right-single"/>
+<TD class="right">100</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">79</TD>
+<TD class="right border-right-single">80</TD>
+<TD class="right">98</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">78</TD>
+<TD class="right border-right-single">79</TD>
+<TD class="right">96</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">77</TD>
+<TD class="right border-right-single">78</TD>
+<TD class="right">94</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">76</TD>
+<TD class="right border-right-single">77</TD>
+<TD class="right">92</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">75</TD>
+<TD class="right border-right-single">76</TD>
+<TD class="right">90</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">74</TD>
+<TD class="right border-right-single">75</TD>
+<TD class="right">88</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">73</TD>
+<TD class="right border-right-single">74</TD>
+<TD class="right">86</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">72</TD>
+<TD class="right border-right-single">73</TD>
+<TD class="right">84</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">71</TD>
+<TD class="right border-right-single">72</TD>
+<TD class="right">82</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">70</TD>
+<TD class="right border-right-single">71</TD>
+<TD class="right">80</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">69</TD>
+<TD class="right border-right-single">70</TD>
+<TD class="right">79</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">68</TD>
+<TD class="right border-right-single">69</TD>
+<TD class="right">78</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">67</TD>
+<TD class="right border-right-single">68</TD>
+<TD class="right">77</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">66</TD>
+<TD class="right border-right-single">67</TD>
+<TD class="right">76</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">65</TD>
+<TD class="right border-right-single">66</TD>
+<TD class="right">75</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">64</TD>
+<TD class="right border-right-single">65</TD>
+<TD class="right">74</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">63</TD>
+<TD class="right border-right-single">64</TD>
+<TD class="right">73</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">62</TD>
+<TD class="right border-right-single">63</TD>
+<TD class="right">72</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">61</TD>
+<TD class="right border-right-single">62</TD>
+<TD class="right">71</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">60</TD>
+<TD class="right border-right-single">61</TD>
+<TD class="right">70</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">59</TD>
+<TD class="right border-right-single">60</TD>
+<TD class="right">69</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">58</TD>
+<TD class="right border-right-single">59</TD>
+<TD class="right">68</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">57</TD>
+<TD class="right border-right-single">58</TD>
+<TD class="right">67</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">56</TD>
+<TD class="right border-right-single">57</TD>
+<TD class="right">66</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">55</TD>
+<TD class="right border-right-single">56</TD>
+<TD class="right">65</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">54</TD>
+<TD class="right border-right-single">55</TD>
+<TD class="right">64</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">53</TD>
+<TD class="right border-right-single">54</TD>
+<TD class="right">63</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">52</TD>
+<TD class="right border-right-single">53</TD>
+<TD class="right">62</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">51</TD>
+<TD class="right border-right-single">52</TD>
+<TD class="right">61</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">50</TD>
+<TD class="right border-right-single">51</TD>
+<TD class="right">60</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">49</TD>
+<TD class="right border-right-single">50</TD>
+<TD class="right">59</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">48</TD>
+<TD class="right border-right-single">49</TD>
+<TD class="right">58</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">47</TD>
+<TD class="right border-right-single">48</TD>
+<TD class="right">57</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">46</TD>
+<TD class="right border-right-single">47</TD>
+<TD class="right">56</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">45</TD>
+<TD class="right border-right-single">46</TD>
+<TD class="right">55</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">44</TD>
+<TD class="right border-right-single">45</TD>
+<TD class="right">54</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">43</TD>
+<TD class="right border-right-single">55</TD>
+<TD class="right">53</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">42</TD>
+<TD class="right border-right-single">43</TD>
+<TD class="right">52</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">41</TD>
+<TD class="right border-right-single">42</TD>
+<TD class="right">51</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">40</TD>
+<TD class="right border-right-single">41</TD>
+<TD class="right">50</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single">0</TD>
+<TD class="right border-bottom-single border-right-single">40</TD>
+<TD class="right border-bottom-single">0</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<P>(i) A State's cost-effectiveness performance level for a fiscal year is equal to the total amount of IV-D support collected and disbursed or retained, as applicable during the fiscal year, divided by the total amount expended during the fiscal year, as determined under &#xA7;&#xA7; 305.2 and 305.32 of this part. The applicable percentage with respect to a State's cost-effectiveness performance level can be found on table 3.</P>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%" data-point-width="105">
+<CAPTION><P class="title">Table 3&#x2014;If the Cost-Effectiveness Performance Level Is:</P><P class="headnote">(Use this table to determine the percentage level for the cost-effectiveness performance measure.)</P></CAPTION>
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">At least:</TH>
+<TH class="center border-top-single border-bottom-single border-right-single">But less than:</TH>
+<TH class="center border-top-single border-bottom-single">The app. % is</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">5.00</TD>
+<TD class="right border-right-single"/>
+<TD class="right">100</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">4.50</TD>
+<TD class="right border-right-single">4.99</TD>
+<TD class="right">90</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">4.00</TD>
+<TD class="right border-right-single">4.50</TD>
+<TD class="right">80</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">3.50</TD>
+<TD class="right border-right-single">4.00</TD>
+<TD class="right">70</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">3.00</TD>
+<TD class="right border-right-single">3.50</TD>
+<TD class="right">60</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">2.50</TD>
+<TD class="right border-right-single">3.00</TD>
+<TD class="right">50</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">2.00</TD>
+<TD class="right border-right-single">2.50</TD>
+<TD class="right">40</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single">0.00</TD>
+<TD class="right border-bottom-single border-right-single">2.00</TD>
+<TD class="right border-bottom-single">0</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+</DIV8>
+
+<DIV8 N="305.34" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.34&quot;,&quot;citation&quot;:&quot;45 CFR 305.34&quot;}">
+<HEAD>&#xA7; 305.34 Payment of incentives.</HEAD>
+<P>(a) Each State must report one-fourth of its estimated annual incentive payment on each of its four quarterly collections' reports for a fiscal year. When combined with the amounts claimed on each of the State's four quarterly expenditure reports, the portion of the annual estimated incentive payment as reported each quarter will be included in the calculation of the next quarterly grant awarded to the State under title IV-D of the Act.</P>
+<P>(b) Following the end of each fiscal year, HHS will calculate the State's annual incentive payment, using the actual collection and expenditure data and the performance data submitted by December 31st by the State and other States for that fiscal year. A positive or negative grant will then be awarded to the State under title IV-D of the Act to reconcile an actual annual incentive payment that has been calculated to be greater or lesser, respectively, than the annual incentive payment estimated prior to the beginning of the fiscal year.</P>
+<P>(c) Payment of incentives is contingent on a State's data being determined complete and reliable by Federal auditors.</P>
+</DIV8>
+
+<DIV8 N="305.35" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.35&quot;,&quot;citation&quot;:&quot;45 CFR 305.35&quot;}">
+<HEAD>&#xA7; 305.35 Reinvestment.</HEAD>
+<P>(a) A State must expend the full amount of incentive payments received under this part to supplement, and not supplant, other funds used by the State to carry out IV-D program activities or funds for other activities approved by the Secretary which may contribute to improving the effectiveness or efficiency of the State's IV-D program, including cost-effective contracts with local agencies, whether or not the expenditures for the activity are eligible for reimbursement under this part.</P>
+<P>(b) In those States in which incentive payments are passed through to political subdivisions or localities, such payments must be used in accordance with this section.</P>
+<P>(c) State IV-D expenditures may not be reduced as a result of the receipt and reinvestment of incentive payments.</P>
+<P>(d) A base amount will be determined by subtracting the amount of incentive funds received and reinvested in the State IV-D program for fiscal year 1998 from the total amount expended by the State in the IV-D program during the same period. Alternatively, States have an option of using the average amount of the previous three fiscal years (1996, 1997, and 1998) as a base amount. This base amount of State spending must be maintained in future years. Incentive payments under this part must be used in addition to, and not in lieu of, the base amount. Non-compliance will result in disallowances of incentive amounts equal to the amount of funds supplanted.</P>
+<P>(e) Using the Form OCSE-396, &#x201C;Child Support Enforcement Program Quarterly Financial Report,&#x201D; the State Current Spending Level will be calculated by determining the State Share of Total Expenditures Claimed for all four quarters of the fiscal year minus State Share of IV-D Administrative Expenditures Made Using Funds Received as Incentive Payments for all four quarters of the fiscal year, plus the Federal Parent Locator Service (FPLS) fees for all four quarters of the fiscal year.</P>
+<P>(1) The State Share of Expenditures Claimed is: Total Expenditures Claimed for the Current Quarter and the Prior Quarter Adjustments minus the Federal Share of Total Expenditures Claimed for the Current Quarter and Prior Quarter Adjustments claimed on the Form OCSE-396 for all four quarters of the fiscal year.</P>
+<P>(2) The State Share of IV-D Administrative Expenditures Made Using Funds Received as Incentive Payments is: IV-D Administrative Expenditures Made Using Funds Received as Incentive Payments for the Current Quarter and the Prior Quarter Adjustments minus the Federal Share of IV-D Administrative Expenditures Made Using Funds Received as Incentive Payments for the Current Quarter and Prior Quarter Adjustments claimed on the Form OCSE-396 for all four quarters of the fiscal year.</P>
+<P>(3) The Fees for the Use of the Federal Parent Locator Service (FPLS) can be computed by adding the FPLS fees claimed on the Form OCSE-396 for all four quarters of the fiscal year.</P>
+<P>(f) Requests for approval of expending incentives on activities not currently eligible for funding under the IV-D program, but which would benefit the IV-D program, must be submitted in accordance with instructions issued by the Commissioner of the Office of Child Support Enforcement.</P>
+<CITA TYPE="N">[65 FR 82208, Dec. 27, 2000, as amended at 81 FR 93568, Dec. 20, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="305.40" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.40&quot;,&quot;citation&quot;:&quot;45 CFR 305.40&quot;}">
+<HEAD>&#xA7; 305.40 Penalty performance measures and levels.</HEAD>
+<P>(a) There are three performance measures for which States must achieve certain levels of performance in order to avoid being penalized for poor performance. These measures are the paternity establishment, support order establishment, and current collections measures set forth in &#xA7; 305.2 of this part. The levels the State must meet are:</P>
+<P>(1) <I>The paternity establishment percentage</I> which is required under section 452(g) of the Act for penalty purposes. States have the option of using either the IV-D paternity establishment percentage or the statewide paternity establishment percentage defined in &#xA7; 305.2 of this part. Table 4 shows the level of performance at which a State will be subject to a penalty under the paternity establishment measure.</P>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%" data-point-width="300">
+<CAPTION><P class="title">Table 4&#x2014;Statutory Penalty Performance Standards for Paternity Establishment</P><P class="headnote">(Use this table to determine the level of performance for the paternity establishment measure that will incur a penalty.)</P></CAPTION>
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">PEP</TH>
+<TH class="center border-top-single border-bottom-single border-right-single">Increase required over previous year's PEP</TH>
+<TH class="center border-top-single border-bottom-single">Penalty FOR FIRST FAILURE if increase not met</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">90% or more</TD>
+<TD class="left border-right-single">None</TD>
+<TD class="left">No Penalty.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">75% to 89%</TD>
+<TD class="left border-right-single">2%</TD>
+<TD class="left">1-2% TANF Funds.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">50% to 74%</TD>
+<TD class="left border-right-single">3%</TD>
+<TD class="left">1-2% TANF Funds.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">45% to 49%</TD>
+<TD class="left border-right-single">4%</TD>
+<TD class="left">1-2% TANF Funds.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">40% to 44%</TD>
+<TD class="left border-right-single">5%</TD>
+<TD class="left">1-2% TANF Funds.</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single">39% or less</TD>
+<TD class="left border-bottom-single border-right-single">6%</TD>
+<TD class="left border-bottom-single">1-2% TANF Funds.</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<P>(2) The support order establishment performance measure is set forth in &#xA7; 305.2 of this part. For purposes of the penalty with respect to this measure, there is a threshold of 40 percent, below which a State will be penalized unless an increase of 5 percent over the previous year is achieved&#x2014;which will qualify it for an incentive. Performance in the 40 percent to 49 percent range with no significant increase will not be penalized but neither will it qualify for an incentive payment. Table 5 shows at which level of performance a State will incur a penalty under the child support order establishment measure.</P>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%" data-point-width="300">
+<CAPTION><P class="title">Table 5&#x2014;Performance Standards for Order Establishment</P><P class="headnote">(Use this table to determine the level of performance for the order establishment measure that will incur a penalty.)</P></CAPTION>
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">Performance level</TH>
+<TH class="center border-top-single border-bottom-single border-right-single">Increase over previous year</TH>
+<TH class="center border-top-single border-bottom-single">Incentive/Penalty</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">50% or more</TD>
+<TD class="left border-right-single">no increase over previous year required</TD>
+<TD class="left">Incentive.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">40% to 49%</TD>
+<TD class="left border-right-single">w/5% increase over previous year</TD>
+<TD class="left">Incentive.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single">w/out 5% increase</TD>
+<TD class="left">No Incentive/No Penalty.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">Less than 40%</TD>
+<TD class="left border-right-single">w/5% increase over previous year</TD>
+<TD class="left">Incentive.</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single"> </TD>
+<TD class="left border-bottom-single border-right-single">w/out 5% increase</TD>
+<TD class="left border-bottom-single">Penalty equal to 1-2% of TANF funds for the first failure, 2-3% for second failure, and so forth, up to a maximum of 5% of TANF funds.</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<P>(3) The <I>current collections</I> performance measure is set forth in &#xA7; 305.2 of this part. There is a threshold of 35 percent below which a State will be penalized unless an increase of 5 percent over the previous year is achieved (that qualifies it for an incentive). Performance in the 35 percent to 40 percent range with no significant increase will not be penalized but neither will it qualify for an incentive payment. Table 6 shows at which level of performance the State will incur a penalty under the current collections measure.</P>
+<DIV width="100%"><DIV class="gpotbl_div">
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%" data-point-width="300">
+<CAPTION><P class="title">Table 6&#x2014;Performance Standards for Current Collections</P><P class="headnote">(Use this table to determine the level of performance for the current collections measure that will incur a penalty.)</P></CAPTION>
+<THEAD>
+<TR>
+<TH class="center border-top-single border-bottom-single border-right-single">Performance level</TH>
+<TH class="center border-top-single border-bottom-single border-right-single">Increase over previous year</TH>
+<TH class="center border-top-single border-bottom-single">Incentive/Penalty</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR>
+<TD class="left border-right-single">40% or more</TD>
+<TD class="left border-right-single">no increase over previous year required</TD>
+<TD class="left">Incentive.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">35% to 39%</TD>
+<TD class="left border-right-single">w/5% increase over previous year</TD>
+<TD class="left">Incentive.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single"> </TD>
+<TD class="left border-right-single">w/out 5% increase</TD>
+<TD class="left">No Incentive/No Penalty.</TD>
+</TR>
+<TR>
+<TD class="left border-right-single">less than 35%</TD>
+<TD class="left border-right-single">w/5% increase over previous year</TD>
+<TD class="left">Incentive.</TD>
+</TR>
+<TR>
+<TD class="left border-bottom-single border-right-single"> </TD>
+<TD class="left border-bottom-single border-right-single">w/out 5% increase</TD>
+<TD class="left border-bottom-single">Penalty equal to 1-2% of TANF funds for the first failure, 2-3% for second failure, and so forth, up to a maximum of 5% of TANF funds.</TD>
+</TR>
+</TBODY>
+</TABLE>
+</DIV></DIV>
+<P>(b) The provisions listed under &#xA7; 305.32 of this part also apply to the penalty performance measures.</P>
+</DIV8>
+
+<DIV8 N="305.42" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.42&quot;,&quot;citation&quot;:&quot;45 CFR 305.42&quot;}">
+<HEAD>&#xA7; 305.42 Penalty phase-in.</HEAD>
+<XREF ID="20261029" REFID="46" AMDINSN="30">Link to an amendment published at 91 FR 68055, Oct. 29, 2026.</XREF>
+<P>States are subject to the performance penalties described in &#xA7; 305.40 based on data reported for FY 2001. Data reported for FY 2000 will be used as a base year to determine improvements in performance during FY 2001. There will be an automatic one-year corrective action period before any penalty is assessed. The penalties will be assessed and then suspended during the corrective action period.</P>
+</DIV8>
+
+<DIV8 N="305.60" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.60&quot;,&quot;citation&quot;:&quot;45 CFR 305.60&quot;}">
+<HEAD>&#xA7; 305.60 Types and scope of Federal audits.</HEAD>
+<P>(a) OCSE will conduct audits, at least once every three years (or more frequently if the State fails to meet performance standards and reliability of data requirements) to assess the completeness, authenticity, reliability, accuracy and security of data and the systems used to process the data in calculating performance indicators under this part;</P>
+<P>(b) Also, OCSE will conduct audits to determine the adequacy of financial management of the State IV-D program, including assessments of:</P>
+<P>(1) Whether funds to carry out the State program are being appropriately expended, and are properly and fully accounted for; and</P>
+<P>(2) Whether collections and disbursements of support payments are carried out correctly and are fully accounted for; and</P>
+<P>(c) OCSE will conduct audits for such other purposes as the Secretary may find necessary.</P>
+<P>(1) These audits include audits to determine if the State is substantially complying with one or more of the requirements of the IV-D program (with the exception of the requirements of section 454(24) of the Act relating to statewide-automated systems and section 454(27)(A) and (B)(i) relating to the State Disbursement Unit) as defined in &#xA7; 305.63 of this part. Other audits will be conducted at the discretion of OCSE.</P>
+<P>(2) Audits to determine substantial compliance will be initiated based on substantiated evidence of a failure by the State to meet IV-D program requirements. Evidence, which could warrant an audit to determine substantial compliance, includes:</P>
+<P>(i) The results of two or more State self-reviews conducted under section 454(15)(A) of the Act which: Show evidence of sustained poor performance; or indicate that the State has not corrected deficiencies identified in previous self-assessments, or that those deficiencies are determined to seriously impact the performance of the State's program; or</P>
+<P>(ii) Evidence of a State program's systemic failure to provide adequate services under the program through a pattern of non-compliance over time.</P>
+<P>(d) OCSE will conduct audits of the State's IV-D program through inspection, inquiries, observation, and confirmation and in accordance with standards promulgated by the Comptroller General of the United States in &#x201C;Government Auditing Standards.&#x201D;</P>
+</DIV8>
+
+<DIV8 N="305.61" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.61&quot;,&quot;citation&quot;:&quot;45 CFR 305.61&quot;}">
+<HEAD>&#xA7; 305.61 Penalty for failure to meet IV-D requirements.</HEAD>
+<P>(a) A State will be subject to a financial penalty and the amounts otherwise payable to the State under title IV-A of the Act will be reduced in accordance with &#xA7; 305.66:</P>
+<P>(1) If on the basis of:</P>
+<P>(i) Data submitted by the State or the results of an audit conducted under &#xA7; 305.60 of this part, the State's program failed to achieve the paternity establishment percentages, as defined in section 452(g)(2) of the Act and &#xA7; 305.40 of this part, or to meet the support order establishment and current collections performance measures as set forth in &#xA7; 305.40 of this part; or</P>
+<P>(ii) The results of an audit under &#xA7; 305.60 of this part, the State did not submit complete and reliable data, as defined in &#xA7; 305.1 of the part; or</P>
+<P>(iii) The results of an audit under &#xA7; 305.60 of this part, the State failed to substantially comply with one or more of the requirements of the IV-D program, as defined in &#xA7; 305.63; and</P>
+<P>(2) With respect to the immediately succeeding fiscal year, the State failed to take sufficient corrective action to achieve the appropriate performance levels or compliance or the data submitted by the State are still incomplete and unreliable.</P>
+<P>(b) The reductions under paragraph (c) of this section will be made for quarters following the end of the corrective action year and will continue until the end of the first quarter throughout which the State, as appropriate:</P>
+<P>(1) Has achieved the paternity establishment percentages, the order establishment or the current collections performance measures set forth in &#xA7; 305.40 of this part;</P>
+<P>(2) Is in substantial compliance with IV-D requirements as defined in &#xA7; 305.63 of this part; or</P>
+<P>(3) Has submitted data that are determined to be complete and reliable.</P>
+<P>(c) The payments for a fiscal year under title IV-A of the Act will be reduced by the following percentages:</P>
+<P>(1) One to two percent for the first finding under paragraph (a) of this section;</P>
+<P>(2) Two to three percent for the second consecutive finding; and</P>
+<P>(3) Not less than three percent and not more than 5 percent for the third or a subsequent consecutive finding.</P>
+<P>(d) The reduction will be made in accordance with the provisions of 45 CFR 262.1(b)-(e) and 262.7.</P>
+<P>(e) <I>COVID-19 paternity establishment percentage penalty relief.</I> Due to the adverse impact of the COVID-19 pandemic on State IV-D operations, the criteria by which States are subject to financial penalties for the paternity establishment percentage under paragraph (a) of this section are modified for fiscal years 2020, 2021, and 2022, in accordance with section 452(g)(A) of the Act, as follows:</P>
+<P>(1) The acceptable level of paternity establishment percentage performance under &#xA7; 305.40(a)(1) is modified for fiscal years 2020, 2021, and 2022 from 90 percent to 50 percent, and</P>
+<P>(2) The adverse findings of data reliability audits of a State's paternity establishment data under &#xA7; 305.60 will not result in a financial penalty for fiscal years 2020, 2021, and 2022.</P>
+<P>(f) During, and subsequent to, natural disasters and other calamities (e.g., state chief executive officer-declared states of emergency, pandemics, events designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), and declared public health emergencies under section 319 of the Public Health Service Act, 42 U.S.C. 247d), the Secretary may temporarily modify the performance measure requirements for a state to meet the paternity establishment percentage standard of 90 percent under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.40(a)(1), the support order establishment standard of 40 percent under 45 CFR 305.40(a)(2), and the current collections standard of 35 percent under 45 CFR 305.40(a)(3), to lower levels to avoid imposing financial performance penalties on states, and may set aside adverse data reliability audit findings under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.61(a)(1)(ii) during the same time period. For Federal fiscal years subsequent to September 30, 2022, the performance requirements for paternity establishment under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.40(a)(1), for support order establishment under 45 CFR 305.40(a)(2), and for current collections under 45 CFR 305.40(a)(3)&#x2014;may be modified by the Secretary to a lower level under the conditions described in this section.</P>
+<P>(1) If a state experiences a natural disaster or other calamity (e.g., state chief Executive officer-declared states of emergency, pandemics, events designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), and declared public health emergencies under section 319 of the Public Health Service Act, 42 U.S.C. 247d), the state's chief executive officer (or his or her designee) may submit to the Secretary a request to modify one or more of the performance requirements specified under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.40(a)(1), under 45 CFR 305.40(a)(2), or under 45 CFR 305.40(a)(3).</P>
+<P>(2) The state may also ask the Secretary to set aside adverse data reliability audit findings under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.61(a)(1)(ii) for the same time period as the time period for which a modification of performance requirements is sought.</P>
+<P>(3) The request for a modification to the performance requirements must be submitted in accordance with the procedures specified in paragraphs (f)(4), (5) and (6) of this section. Any request other than one submitted with the initial application must be submitted as soon as the adverse effect of the natural disaster or other calamity giving rise to the request is known to the state.</P>
+<P>(4) A request for a modification of one or more of the performance requirements must include the following:</P>
+<P>(i) A narrative statement describing the circumstances and justification for the request to modify the state's performance requirement;</P>
+<P>(ii) Information substantiating the impact of the natural disaster or other calamity on the state's ability to comply with the standards, including a description of the specific conditions caused by the natural disaster or other calamity that have, or may have, a significant impact on the state's ability to comply, and preliminary data provided by the state, as required under 45 CFR 305.32(f), showing reduced performance;</P>
+<P>(iii) Information on the expected duration of the conditions that make compliance impracticable; and</P>
+<P>(iv) Any other documentation or other information that the Secretary may require to make this determination.</P>
+<P>(5) The state must demonstrate to the satisfaction of the Secretary that the natural disaster or other calamity has directly resulted in a reduction in performance or is expected to result in a reduction in performance, based on data provided by the state. In its request for a temporary modification to one or more performance requirements, the state must be able to demonstrate that it:</P>
+<P>(i) Has not, or may not meet one or more existing performance requirements, such that a performance penalty would apply;</P>
+<P>(ii) Has submitted preliminary data supporting this statement; and</P>
+<P>(iii) Has provided all required information requested by the Secretary.</P>
+<P>(6) The Secretary shall provide written communication of the decision to modify or decline to modify the performance standards, and the period for which any modified standards shall apply, within 30-calendar days after receipt of appropriate written communication from the chief executive officer.</P>
+<P>(i) If approved, a temporary modification in a performance requirement will expire on the last day of the Federal fiscal year for which it was approved.</P>
+<P>(ii) Adverse findings of data reliability audits of the state's performance data under 45 CFR 305.60 as reported during the period in which the performance requirement modification is approved will not result in a financial penalty pursuant to the state's request as specified in paragraph (f)(2) of this section.</P>
+<P>(iii) Unless the state receives a written approval of its performance requirement modification request, the performance requirements under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.40(a)(1), under 45 CFR 305.40(a)(2), and under 45 CFR 305.40(a)(3) remain in effect.</P>
+<P>(iv) If the request for a performance requirement modification is denied, the denial is not subject to administrative appeal.</P>
+<CITA TYPE="N">[65 FR 82208, Dec. 27, 2000, as amended at 87 FR 32094, May 27, 2022; 89 FR 15479, Mar. 4, 2024]
+</CITA>
+</DIV8>
+
+<DIV8 N="305.62" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.62&quot;,&quot;citation&quot;:&quot;45 CFR 305.62&quot;}">
+<HEAD>&#xA7; 305.62 Disregard of a failure which is of a technical nature.</HEAD>
+<XREF ID="20261029" REFID="47" AMDINSN="31">Link to an amendment published at 91 FR 68055, Oct. 29, 2026.</XREF>
+<P>A State subject to a penalty under &#xA7; 305.61(a)(1)(ii) or (iii) of this part may be determined, as appropriate, to have submitted adequate data or to have achieved substantial compliance with one or more IV-D requirements, as defined in &#xA7; 305.63 of this part, if the Secretary determines that the incompleteness or unreliability of the data, or the noncompliance with one or more of the IV-D requirements, is of a technical nature which does not adversely affect the performance of the State's IV-D program or does not adversely affect the determination of the level of the State's paternity establishment or other performance measures percentages.</P>
+</DIV8>
+
+<DIV8 N="305.63" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.63&quot;,&quot;citation&quot;:&quot;45 CFR 305.63&quot;}">
+<HEAD>&#xA7; 305.63 Standards for determining substantial compliance with IV-D requirements.</HEAD>
+<P>For the purposes of a determination under &#xA7; 305.61(a)(1)(iii) of this part, in order to be found to be in substantial compliance with one or more of the IV-D requirements as a result of an audit conducted under &#xA7; 305.60 of this part, a State must meet the standards set forth below for each specific IV-D State plan requirement or requirements being audited and contained in parts 302 and 303 of this chapter, measured as follows:</P>
+<P>(a) The State must meet the requirements under the following areas:</P>
+<P>(1) Statewide operations, &#xA7; 302.10 of this chapter;</P>
+<P>(2) Reports and maintenance of records, &#xA7; 302.15(a) of this chapter;</P>
+<P>(3) Separation of cash handling and accounting functions, &#xA7; 302.20 of this chapter; and</P>
+<P>(4) Notice of collection of assigned support, &#xA7; 302.54 of this chapter.</P>
+<P>(b) The State must provide services required under the following areas in at least 90 percent of the cases reviewed:</P>
+<P>(1) Establishment of cases, &#xA7; 303.2(a) of this chapter; and</P>
+<P>(2) Case closure criteria, &#xA7; 303.11 of this chapter.</P>
+<P>(c) The State must provide services required under the following areas in at least 75 percent of the cases reviewed:</P>
+<P>(1) Collection and distribution of support payments, including: collection and distribution of support payments by the IV-D agency under &#xA7; 302.32(b) of this chapter; distribution of support collections under &#xA7; 302.51 of this chapter; and distribution of support collected in title IV-E foster care maintenance cases under &#xA7; 302.52 of this chapter;</P>
+<P>(2) Establishment of paternity and support orders, including: Establishment of a case under &#xA7; 303.2(b) of this chapter; services to individuals not receiving TANF or title IV-E foster care assistance, under &#xA7; 302.33(a)(1) through (4) of this chapter; provision of services in intergovernmental IV-D cases under &#xA7; 303.7(a), (b), (c), (d)(1) through (5) and (7) through (10), and (e) of this chapter; location of non-custodial parents under &#xA7; 303.3 of this chapter; establishment of paternity under &#xA7; 303.5(a) and (f) of this chapter; guidelines for setting child support awards under &#xA7; 302.56 of this chapter; and establishment of support obligations under &#xA7; 303.4(d), (e) and (f) of this chapter;</P>
+<P>(3) Enforcement of support obligations, including, in all appropriate cases: establishment of a case under &#xA7; 303.2(b) of this chapter; services to individuals not receiving TANF or title IV-E foster care assistance, under &#xA7; 302.33(a)(1) through (4) of this chapter; provision of services in intergovernmental IV-D cases under &#xA7; 303.7(a), (b), (c), (d)(1) through (5) and (7) through (10), and (e) of this chapter; location of non-custodial parents under &#xA7; 303.3 of this chapter; enforcement of support obligations under &#xA7; 303.6 of this chapter and State laws enacted under section 466 of the Act, including submitting once a year all appropriate cases in accordance with &#xA7; 303.6(c)(3) of this chapter to State and Federal income tax refund offset; and wage withholding under &#xA7; 303.100 of this chapter. In cases in which wage withholding cannot be implemented or is not available and the non-custodial parent has been located, States must use or attempt to use at least one enforcement technique available under State law in addition to Federal and State tax refund offset, in accordance with State laws and procedures and applicable State guidelines developed under &#xA7; 302.70(b) of this chapter;</P>
+<P>(4) Review and adjustment of child support orders, including: Establishment of a case under &#xA7; 303.2(b) of this chapter; services to individuals not receiving TANF or title IV-E foster care assistance, under &#xA7; 302.33(a)(1) through (4) of this chapter; provision of services in intergovernmental IV-D cases under &#xA7; 303.7(a), (b), (c), (d)(1) through (5) and (7) through (10), and (e) of this chapter; location of non-custodial parents under &#xA7; 303.3 of this chapter; guidelines for setting child support awards under &#xA7; 302.56 of this chapter; and review and adjustment of support obligations under &#xA7; 303.8 of this chapter; and</P>
+<P>(5) Medical support, including: establishment of a case under &#xA7; 303.2(b) of this chapter; services to individuals not receiving TANF or title IV-E foster care assistance, under &#xA7; 302.33(a)(1) through (4) of this chapter; provision of services in intergovernmental IV-D cases under &#xA7; 303.7(a), (b), (c), (d)(1) through (5) and (7) through (10), and (e) of this chapter; location of non-custodial parents under &#xA7; 303.3 of this chapter; securing medical support information under &#xA7; 303.30 of this chapter; and securing and enforcing medical support obligations under &#xA7;&#xA7; 303.31 and 302.32 of this chapter; and</P>
+<P>(6) Disbursement of support payments in accordance with the timeframes in section 454B of the Act and &#xA7; 302.32 of this chapter.</P>
+<P>(d) With respect to the 75 percent standard in paragraph (c) of this section:</P>
+<P>(1) Notwithstanding timeframes for establishment of cases in &#xA7; 303.2(b) of this chapter; provision of services in interstate IV-D cases under &#xA7; 303.7(a)(4) through (8), (b), (c), (d)(2) through (5) and (7) and (10) of this chapter; location and support order establishment under &#xA7; 303.3(b)(3) and (5), and &#xA7; 303.4(d) of this chapter, if a support order needs to be established in a case and an order is established during the audit period in accordance with the State's guidelines for setting child support awards, the State will be considered to have taken appropriate action in that case for audit purposes.</P>
+<P>(2) Notwithstanding timeframes for establishment of cases in &#xA7; 303.2(b) of this chapter; provision of services in interstate IV-D cases under &#xA7; 303.7(a)(4) through (8), (b), (c), (d)(2) through (5) and (7) and (10) of this chapter; and location and review and adjustment of support orders contained in &#xA7; 303.3(b)(3) and (5), and &#xA7; 303.8 of this chapter, if a particular case has been reviewed and meets the conditions for adjustment under State laws and procedures and &#xA7; 303.8 of this chapter, and the order is adjusted, or a determination is made, as a result of a review, during the audit period, that an adjustment is not needed, in accordance with the State's guidelines for setting child support awards, the State will be considered to have taken appropriate action in that case for audit purposes.</P>
+<P>(3) Notwithstanding timeframes for establishment of cases in &#xA7; 303.2(b) of this chapter; provision of services in interstate IV-D cases under &#xA7; 303.7(a)(4) through (8), (b), (c), (d)(2) through (5) and (7) and (10) of this chapter; and location and wage withholding in &#xA7; 303.3(b) (3) and (5), and &#xA7; 303.100 of this chapter, if wage withholding is appropriate in a particular case and wage withholding is implemented and wages are withheld during the audit period, the State will be considered to have taken appropriate action in that case for audit purposes.</P>
+<P>(4) Notwithstanding timeframes for establishment of cases in &#xA7; 303.2(b) of this chapter; provision of services in interstate IV-D cases under &#xA7; 303.7(a)(4) through (8), (b), (c), (d)(2) through (5) and (7) and (10) of this chapter; and location and enforcement of support obligations in &#xA7; 303.3(b) (3) and (5), and &#xA7; 303.6 of this chapter, if wage withholding is not appropriate in a particular case, and the State uses at least one enforcement technique available under State law, in addition to Federal and State income tax refund offset, which results in a collection received during the audit period, the State will be considered to have taken appropriate action in the case for audit purposes.</P>
+<P>(e) The State must meet the requirements for expedited processes under &#xA7; 303.101(b)(2)(i) and (iii), and (e) of this chapter.</P>
+<CITA TYPE="N">[65 FR 82208, Dec. 27, 2000, as amended at 73 FR 42442, July 21, 2008; 75 FR 38644, July 2, 2010; 81 FR 93568, Dec. 20, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="305.64" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.64&quot;,&quot;citation&quot;:&quot;45 CFR 305.64&quot;}">
+<HEAD>&#xA7; 305.64 Audit procedures and State comments.</HEAD>
+<P>(a) Prior to the start of the actual audit, Federal auditors will hold an audit entrance conference with the IV-D agency. At that conference, the auditors will explain how the audit will be performed and make any necessary arrangements.</P>
+<P>(b) At the conclusion of audit fieldwork, Federal auditors will afford the State IV-D agency an opportunity for an audit exit conference at which time preliminary audit findings will be discussed and the IV-D agency may present any additional matter it believes should be considered in the audit findings.</P>
+<P>(c) After the exit conference, Federal auditors will prepare and send to the IV-D agency a copy of their interim report on the results of the audit. Within a specified timeframe from the date the report was sent, the IV-D agency may submit comments, which are reflected in a record, on any part of the report which the IV-D agency believes is in error. The auditors will note such comments and incorporate any response into the final audit report.</P>
+<CITA TYPE="N">[65 FR 82208, Dec. 27, 2000, as amended at 81 FR 93568, Dec. 20, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="305.65" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.65&quot;,&quot;citation&quot;:&quot;45 CFR 305.65&quot;}">
+<HEAD>&#xA7; 305.65 State cooperation in audit.</HEAD>
+<P>(a) Each State shall make available to the Federal auditors such records or other supporting documentation (electronic and manual) as the audit staff may request, including records to support the data as submitted on the Federal statistical and financial reports that will be used to calculate the State's performance. The State shall also make available personnel associated with the State's IV-D program to provide information that the audit staff may find necessary in order to conduct or complete the audit.</P>
+<P>(b) States must provide evidence to Office that their data are complete and reliable as defined in &#xA7; 305.1 of this part.</P>
+<P>(c) Failure to comply with the requirements of this section with respect to audits conducted to determine compliance with IV-D requirements under &#xA7; 305.60 of this part, may necessitate a finding that the State has failed to comply with the particular criteria being audited.</P>
+<CITA TYPE="N">[65 FR 82208, Dec. 27, 2000, as amended at 85 FR 35208, June 9, 2020]
+</CITA>
+</DIV8>
+
+<DIV8 N="305.66" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-45/section-305.66&quot;,&quot;citation&quot;:&quot;45 CFR 305.66&quot;}">
+<HEAD>&#xA7; 305.66 Notice, corrective action year, and imposition of penalty.</HEAD>
+<P>(a) If a State is found by the Secretary to be subject to a penalty as described in &#xA7; 305.61, the OCSE will notify the State, in a record, of such finding.</P>
+<P>(b) The notice will:</P>
+<P>(1) Explain the deficiency or deficiencies which result in the State being subject to a penalty, indicate the amount of the potential penalty, and give reasons for the finding; and</P>
+<P>(2) Specify that the penalty will be assessed in accordance with the provisions of 45 CFR 262.1(b) through (e) and 262.7 if the State is found to have failed to correct the deficiency or deficiencies cited in the notice during the automatic corrective action year (i.e., the succeeding fiscal year following the year with respect to which the deficiency occurred.)</P>
+<P>(c) The penalty under &#xA7; 305.61 of this part will be assessed if the Secretary determines that the State has not corrected the deficiency or deficiencies cited in the notice by the end of the corrective action year.</P>
+<P>(d) Only one corrective action period is provided to a State with respect to a given deficiency where consecutive findings of noncompliance are made with respect to that deficiency. In the case of a State against which the penalty is assessed and which failed to correct the deficiency or deficiencies cited in the notice by the end of the corrective action year, the penalty will be effective for any quarter after the end of the corrective action year and ends for the first full quarter throughout which the State IV-D program is determined to have corrected the deficiency or deficiencies cited in the notice.</P>
+<P>(e) A consecutive finding occurs only when the State does not meet the same criterion or criteria cited in the notice in paragraph (a) of this section.</P>
+<CITA TYPE="N">[65 FR 82208, Dec. 27, 2000, as amended at 81 FR 93568, Dec. 20, 2016]
+</CITA>
+</DIV8>
+
+</DIV5>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Families First Act of 2027 — Discussion Draft</title>
+<meta name="description" content="Families First Act of 2027: a discussion-draft federal proposal to reverse the Title IV-D child support incentive formula so that a State's incentive payment decreases as the amount of current support owed increases.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="notice">Discussion draft — not an official congressional document. This proposal has not been introduced, sponsored, or reviewed by Legislative Counsel or the Congressional Budget Office.</div>
+
+<header>
+  <div class="wrap">
+    <p class="kicker">Federal legislative proposal</p>
+    <h1>Families First Act of 2027</h1>
+    <p class="lede">A bill to update and improve the fair distribution of Federal child support incentive payments to States based on updated and improved metrics. It makes a narrow amendment to section 458 of the Social Security Act (42 U.S.C. 658a).</p>
+    <nav>
+      <a href="#summary">Summary</a>
+      <a href="#formula">How it works</a>
+      <a href="#ohio">Ohio example</a>
+      <a href="#issues">Open issues</a>
+      <a href="#documents">Documents</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+
+<section id="summary">
+  <h2>Summary</h2>
+  <dl class="facts">
+    <dt>Current law</dt>
+    <dd>Each year HHS divides a fixed, CPI-indexed pool ($755.4 million in FY2026) among States. A State’s share is its total child support collections multiplied by five performance scores, so larger collections earn a larger share.</dd>
+    <dt>Proposed change</dt>
+    <dd>Replace total collections with an <em>order-adjusted base</em>: a benchmark amount for each month a case has current support owed, minus the total current support owed. Drop the cost-effectiveness score, the only one tied to dollars collected.</dd>
+    <dt>What stays the same</dt>
+    <dd>The size of the pool; 66 percent federal reimbursement of program costs; State guidelines for support amounts; the paternity, order-establishment, collection-rate, and arrears scores; and the related penalty system.</dd>
+    <dt>Federal cost</dt>
+    <dd>No change to direct incentive spending, because the pool is unchanged. The proposal redistributes the pool among States. CBO has not estimated it.</dd>
+    <dt>Law affected</dt>
+    <dd>Social Security Act §§ 458(b) and new 458(g); § 455(a)(4)(C)(iii) (conforming). Committees of jurisdiction: Ways and Means (House) and Finance (Senate).</dd>
+  </dl>
+  <p class="caveat">The proposal removes a federal financial stake in larger support obligations. It does not claim, and the evidence does not establish, that the current incentive changes how courts set support or decide custody.</p>
+</section>
+
+<section id="formula">
+  <h2>How the formula works</h2>
+  <div class="formula">
+    <p>Order-adjusted base = max(0, <var>B</var> × case-months − current support owed)</p>
+    <p>State payment = Pool × (base × performance multiplier) ÷ (sum for all States)</p>
+  </div>
+  <p>With a benchmark <var>B</var> of $1,000 per case-month, each month of a case adds this weight to the State’s base:</p>
+  <table>
+    <thead><tr><th>Monthly order</th><th class="num">Weight added</th></tr></thead>
+    <tbody>
+      <tr><td>$0</td><td class="num">1,000</td></tr>
+      <tr><td>$250</td><td class="num">750</td></tr>
+      <tr><td>$500</td><td class="num">500</td></tr>
+      <tr><td>$1,000</td><td class="num">0</td></tr>
+      <tr><td>$1,500</td><td class="num">−500</td></tr>
+    </tbody>
+  </table>
+  <p><strong>Weights are not dollars.</strong> Because the national pool is fixed, one more dollar of support owed lowers a State’s actual payment by about one cent, not one dollar. Cases with no current order add nothing, so a State gains nothing by keeping them open.</p>
+</section>
+
+<section id="ohio">
+  <h2>Ohio example (FY2023, preliminary data)</h2>
+  <table>
+    <tbody>
+      <tr><td>Actual incentive payment</td><td class="num">$37.37 million</td></tr>
+      <tr><td>Current formula, simulated</td><td class="num">$36.79 million</td></tr>
+      <tr><td>Proposed formula (B = $1,000)</td><td class="num">$46.48 million</td></tr>
+      <tr><td>Average owed per case-month (national)</td><td class="num">$275 ($339)</td></tr>
+      <tr><td>Effect of each added $1 owed</td><td class="num">−1.07 cents</td></tr>
+    </tbody>
+  </table>
+  <p class="small">Illustrative simulation using HHS Office of Child Support Enforcement preliminary data tables. Not a cost estimate. Method and sources are in the fiscal analysis.</p>
+</section>
+
+<section id="issues">
+  <h2>Open issues</h2>
+  <ul>
+    <li>The benchmark amount ([$1,000]) and first fiscal year ([2030]) are bracketed policy choices.</li>
+    <li>HHS does not yet collect monthly counts of cases with current support owed; its reporting form and regulations would need revision.</li>
+    <li>States with higher average orders, usually higher-income States, would lose share (New Jersey −63 percent in the simulation). An income adjustment or phase-in is an option.</li>
+    <li>States could respond with lower guideline schedules, more $0 orders, or changes in case handling. The bill keeps existing guideline rules and requires a GAO evaluation.</li>
+    <li>All FY2022–FY2025 data are preliminary, and no CBO estimate exists.</li>
+  </ul>
+</section>
+
+<section id="documents">
+  <h2>Documents</h2>
+  <ul class="docs">
+    <li><a href="documents/01_Sponsor_Brief.pdf">Sponsor Brief</a> <span>1 page</span> <a class="alt" href="documents/01_Sponsor_Brief.docx">Word</a></li>
+    <li><a href="documents/02_Draft_Federal_Bill.pdf">Draft Federal Bill</a> <span>4 pages</span> <a class="alt" href="documents/02_Draft_Federal_Bill.docx">Word</a></li>
+    <li><a href="documents/03_Section_by_Section_Summary.pdf">Section-by-Section Summary</a> <span>2 pages</span> <a class="alt" href="documents/03_Section_by_Section_Summary.docx">Word</a></li>
+    <li><a href="documents/04_Fiscal_and_Policy_Analysis.pdf">Fiscal and Policy Analysis</a> <span>4 pages</span> <a class="alt" href="documents/04_Fiscal_and_Policy_Analysis.docx">Word</a></li>
+    <li><a href="documents/05_Sources_and_Research_Notes.pdf">Sources and Research Notes</a> <span>3 pages</span> <a class="alt" href="documents/05_Sources_and_Research_Notes.docx">Word</a></li>
+  </ul>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Discussion Draft 1 · November 1, 2026 · Research current through November 1, 2026.</p>
+    <p>Statutory text: <a href="https://uscode.house.gov/">Office of the Law Revision Counsel</a>. Program data: <a href="https://acf.gov/ocse">HHS Office of Child Support Enforcement</a>.</p>
+  </div>
+</footer>
+
+</body>
+</html>

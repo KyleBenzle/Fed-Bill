@@ -1,0 +1,19 @@
+vs simulated current law, B=1000: median 0.0%
+ n gaining: 27 n losing: 27
+ largest losses: [('NEW JERSEY', -63.1), ('NORTH DAKOTA', -41.2), ('MAINE', -41.0), ('MASSACHUSETTS', -39.6), ('ALASKA', -39.3)]
+ largest gains: [('KENTUCKY', 78.5), ('MISSISSIPPI', 128.6), ('DIST. OF COL.', 132.9), ('DELAWARE', 173.1), ('VIRGIN ISLANDS', 310.9)]
+OHIO sim current 36.79M new 46.48M change 26.3%
+OHIO avg owed per case-month 274.69; national 338.51
+OHIO owed -10% (-153.4M owed): payment 48.11M (+1.64M), cents per $ -1.07
+OHIO owed +10% (+153.4M owed): payment 44.83M (-1.64M), cents per $ -1.07
+ALL +10%: OHIO 47.13M; national total unchanged 678795663
+value to Ohio of one added case-month with order $0: $10.69
+value to Ohio of one added case-month with order $275: $7.75
+value to Ohio of one added case-month with order $500: $5.34
+value to Ohio of one added case-month with order $1000: $0.00
+Dollar-for-dollar at B=1000: national $60.5B vs pool $679M (x89); Ohio $4.05B
+Dollar-for-dollar budget-neutral B=279.53; states receiving zero: 40 of 54; Ohio $27.0M
+B=750 Ohio new 48.98M marg -1.71 c/$
+B=1000 Ohio new 46.48M marg -1.07 c/$
+B=1500 Ohio new 44.71M marg -0.61 c/$
+marg c/$ range: (-1.2383569745010297, 'PENNSYLVANIA') (-0.837061293536113, 'VIRGIN ISLANDS')
