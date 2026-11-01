@@ -50,5 +50,18 @@ m.lead("Requested action. ",
        "Review the discussion draft; request technical drafting assistance from the Office of the Legislative Counsel; "
        "and request technical assistance from HHS and, if pursued, an informal CBO consultation. Policy choices left "
        "open: the benchmark amount, the effective year, and any adjustment for State income levels.")
+from docbase import add_hyperlink
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+cp = m.para(("Contact. ", "b"), "Kyle Benzle  \u00b7  ")
+add_hyperlink(cp, "kbe@gmx.us", "mailto:kbe@gmx.us")
+cp.add_run("  \u00b7  614-505-9532  \u00b7  ")
+add_hyperlink(cp, "FamiliesFirstBill.us", "https://www.familiesfirstbill.us")
+cp.paragraph_format.space_before = Pt(10)
+ppr = cp._p.get_or_add_pPr()
+bdr = OxmlElement("w:pBdr"); top = OxmlElement("w:top")
+for k, v in (("val", "single"), ("sz", "4"), ("space", "6"), ("color", "000000")):
+    top.set(qn("w:" + k), v)
+bdr.append(top); ppr.append(bdr)
 m.save(OUT)
 print("saved", OUT)

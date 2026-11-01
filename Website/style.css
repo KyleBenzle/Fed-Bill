@@ -96,3 +96,5 @@ footer p { margin: 0.25rem 0; }
   .notice, nav { display: none; }
   section { break-inside: avoid; }
 }
+
+.contact { line-height: 1.8; margin: 0 0 1rem; }

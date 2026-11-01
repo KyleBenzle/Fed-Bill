@@ -421,3 +421,23 @@ def _set_suppress_ln(style):
     ppr = style.element.get_or_add_pPr()
     el = OxmlElement("w:suppressLineNumbers")
     ppr.append(el)
+
+
+def add_hyperlink(paragraph, text, url, size=None):
+    """Append a real clickable hyperlink run (black text, underlined) to a paragraph."""
+    part = paragraph.part
+    r_id = part.relate_to(url, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+                          is_external=True)
+    h = OxmlElement("w:hyperlink")
+    h.set(qn("r:id"), r_id)
+    r = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    u = OxmlElement("w:u"); u.set(qn("w:val"), "single"); rpr.append(u)
+    if size:
+        sz = OxmlElement("w:sz"); sz.set(qn("w:val"), str(int(size * 2))); rpr.append(sz)
+    r.append(rpr)
+    t = OxmlElement("w:t"); t.text = text; t.set(qn("xml:space"), "preserve")
+    r.append(t)
+    h.append(r)
+    paragraph._p.append(h)
+    return h

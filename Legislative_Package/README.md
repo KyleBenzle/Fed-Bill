@@ -2,6 +2,7 @@
 
 **Version:** Discussion Draft 1, November 1, 2026
 **Research cutoff:** November 1, 2026. The U.S. Code is current through Pub. L. 119-136 (Oct. 22, 2026), eCFR through Oct. 29, 2026, and HHS data through the FY2025 Preliminary Data Report (updated Oct. 2, 2026).
+**Contact:** Kyle Benzle · kbe@gmx.us · 614-505-9532 · https://www.familiesfirstbill.us
 **Status:** This is not an official congressional document. It has not been introduced, sponsored, referred, or reviewed by Legislative Counsel or by CBO.
 
 | File | Contents | Pages |
